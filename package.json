@@ -1,6 +1,6 @@
 {
   "name": "credo-ts-didweb-anoncreds",
-  "version": "0.0.0.alpha-0",
+  "version": "0.0.1",
   "description": "did:web AnonCreds registry for Credo",
   "author": "2060.io",
   "homepage": "https://github.com/Entidad/credo-ts-didweb-anoncreds",
