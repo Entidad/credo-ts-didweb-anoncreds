@@ -33,12 +33,14 @@
     "query-string": "7.1.3"
   },
   "devDependencies": {
+    "@credo-ts/core": "0.5.10",
     "@credo-ts/anoncreds": "0.5.10",
     "@credo-ts/askar": "0.5.10",
-    "@credo-ts/core": "0.5.10",
     "@credo-ts/node": "0.5.10",
     "@hyperledger/anoncreds-shared": "^0.2.2",
+    "@hyperledger/anoncreds-react-native": "^0.2.2",
     "@hyperledger/aries-askar-nodejs": "^0.2.3",
+    "@hyperledger/aries-askar-react-native": "^0.2.3",
     "@babel/traverse": "^7.23.2",
     "@types/jest": "^29.5.0",
     "@types/node-fetch": "2.6.2",
