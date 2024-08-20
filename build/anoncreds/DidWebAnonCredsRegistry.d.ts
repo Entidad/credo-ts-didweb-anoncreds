@@ -1,4 +1,4 @@
-import { AnonCredsRegistry, GetCredentialDefinitionReturn, GetRevocationRegistryDefinitionReturn, GetRevocationStatusListReturn, GetSchemaReturn, RegisterCredentialDefinitionOptions, RegisterCredentialDefinitionReturn, RegisterRevocationRegistryDefinitionOptions, RegisterRevocationRegistryDefinitionReturn, RegisterRevocationStatusListOptions, RegisterRevocationStatusListReturn, RegisterSchemaOptions, RegisterSchemaReturn } from '@credo-ts/anoncreds/build/anoncreds/src/index.js';
+import { AnonCredsRegistry, GetCredentialDefinitionReturn, GetRevocationRegistryDefinitionReturn, GetRevocationStatusListReturn, GetSchemaReturn, RegisterCredentialDefinitionOptions, RegisterCredentialDefinitionReturn, RegisterRevocationRegistryDefinitionOptions, RegisterRevocationRegistryDefinitionReturn, RegisterRevocationStatusListOptions, RegisterRevocationStatusListReturn, RegisterSchemaOptions, RegisterSchemaReturn } from '@credo-ts/anoncreds';
 import { AgentContext } from '@credo-ts/core';
 export interface CacheSettings {
     allowCaching: boolean;

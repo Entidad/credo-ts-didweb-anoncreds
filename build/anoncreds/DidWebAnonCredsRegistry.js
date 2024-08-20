@@ -1,6 +1,7 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 exports.DidWebAnonCredsRegistry = void 0;
+//} from '@credo-ts/anoncreds/build/anoncreds/src/index.js';
 const core_1 = require("@credo-ts/core");
 const query_string_1 = require("query-string");
 const utils_1 = require("./utils");
