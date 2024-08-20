@@ -16,7 +16,8 @@ import {
   RegisterRevocationStatusListReturn,
   RegisterSchemaOptions,
   RegisterSchemaReturn,
-} from '@credo-ts/anoncreds'
+//} from '@credo-ts/anoncreds'
+} from '@credo-ts/anoncreds/build/anoncreds/src/index.js';
 import { AgentContext, CacheModuleConfig, DidsApi, parseDid } from '@credo-ts/core'
 import { parseUrl } from 'query-string'
 import { AnonCredsResourceResolutionResult } from './AnonCredsResourceResolutionResult'
